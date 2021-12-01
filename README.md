@@ -2,7 +2,7 @@
 This repo contains my solutions for the [Advent of Code 2021](https://adventofcode.com/) challenges. I will try to document my thoughts and steps on how I solved each puzzle as much as I can.
 I will use mainly C# and my goal is to train myself in using all the new features of the language and strengthen my knowledge and usage of best practices in the language and .NET in general.
 
-[![.NET](https://github.com/jooni91/advent-of-code-2021/actions/workflows/dotnet.yml/badge.svg)](https://github.com/jooni91/advent-of-code-2021/actions/workflows/dotnet.yml)
+[![GitHub Build](https://github.com/jooni91/advent-of-code-2021/actions/workflows/dotnet.yml/badge.svg)](https://github.com/jooni91/advent-of-code-2021/actions/workflows/dotnet.yml)
 
 Links to solution for each day:
 
