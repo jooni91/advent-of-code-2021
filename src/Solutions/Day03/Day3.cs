@@ -10,12 +10,12 @@ namespace AdventOfCode2021.Solutions.Day03
 
         protected override string PartOne(string input)
         {
-            return base.PartOne(input);
+            return "";
         }
 
         protected override string PartTwo(string input)
         {
-            return base.PartTwo(input);
+            return "";
         }
     }
 }
