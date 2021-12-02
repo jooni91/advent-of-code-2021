@@ -14,7 +14,7 @@ namespace AdventOfCode2021.Tests.Solutions.Day02
             var result = daySolution.GetResult(Part.One);
 
             // Assert
-            Assert.Equal("1228", result);
+            Assert.Equal("1480518", result);
         }
 
         [Fact]
@@ -27,7 +27,7 @@ namespace AdventOfCode2021.Tests.Solutions.Day02
             var result = daySolution.GetResult(Part.Two);
 
             // Assert
-            Assert.Equal("1257", result);
+            Assert.Equal("1282809906", result);
         }
     }
 }

@@ -8,7 +8,7 @@ Links to solution for each day:
 
 [Day 1: Sonar Sweep](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day01)
 
-[Day 2: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day02)
+[Day 2: Dive!](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day02)
 
 [Day 3: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day03)
 
