@@ -10,7 +10,7 @@ Links to solution for each day:
 
 [Day 2: Dive!](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day02)
 
-[Day 3: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day03)
+[Day 3: Binary Diagnostic](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day03)
 
 [Day 4: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day04)
 
