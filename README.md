@@ -12,7 +12,7 @@ Links to solution for each day:
 
 [Day 3: Binary Diagnostic](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day03)
 
-[Day 4: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day04)
+[Day 4: Giant Squid](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day04)
 
 [Day 5: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day05)
 
