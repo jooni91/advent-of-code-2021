@@ -1,14 +1,14 @@
 ﻿using Xunit;
 
-namespace AdventOfCode2021.Tests.Solutions.Day05
+namespace AdventOfCode2021.Tests.Solutions.Day06
 {
-    public class Day5Tests
+    public class Day6Tests
     {
         [Fact]
         public void PartOne_ShouldReturn_ExpectedValue()
         {
             // Arrange
-            var daySolution = new AdventOfCode2021.Solutions.Day05.Day5();
+            var daySolution = new AdventOfCode2021.Solutions.Day06.Day6();
 
             // Act
             var result = daySolution.GetResult(Part.One);
@@ -21,7 +21,7 @@ namespace AdventOfCode2021.Tests.Solutions.Day05
         public void PartTwo_ShouldReturn_ExpectedValue()
         {
             // Arrange
-            var daySolution = new AdventOfCode2021.Solutions.Day05.Day5();
+            var daySolution = new AdventOfCode2021.Solutions.Day06.Day6();
 
             // Act
             var result = daySolution.GetResult(Part.Two);
