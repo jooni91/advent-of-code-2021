@@ -14,7 +14,7 @@ Links to solution for each day:
 
 [Day 4: Giant Squid](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day04)
 
-[Day 5: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day05)
+[Day 5: Hydrothermal Venture](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day05)
 
 [Day 6: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day06)
 
