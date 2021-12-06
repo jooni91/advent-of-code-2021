@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.IO;
+﻿using AdventOfCode2021.Utilities;
 using System.Linq;
-using AdventOfCode2021.Utilities;
 
 namespace AdventOfCode2021.Solutions.Day06
 {
