@@ -16,7 +16,7 @@ Links to solution for each day:
 
 [Day 5: Hydrothermal Venture](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day05)
 
-[Day 6: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day06)
+[Day 6: Lanternfish](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day06)
 
 [Day 7: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day07)
 

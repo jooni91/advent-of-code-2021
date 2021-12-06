@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using AdventOfCode2021.Utilities;
 
 namespace AdventOfCode2021.Solutions.Day06
 {
@@ -12,12 +13,26 @@ namespace AdventOfCode2021.Solutions.Day06
 
         protected override string PartOne(string input)
         {
-            return "";
+            var fishPool = new LanternfishPool(input.Split(',').ConvertInputsToIntegers().ToArray());
+
+            for (int i = 0; i < 80; i++)
+            {
+                fishPool.StartNextDay();
+            }
+
+            return fishPool.Count.ToString();
         }
 
         protected override string PartTwo(string input)
         {
-            return "";
+            var fishPool = new LanternfishPool(input.Split(',').ConvertInputsToIntegers().ToArray());
+
+            for (int i = 0; i < 256; i++)
+            {
+                fishPool.StartNextDay();
+            }
+
+            return fishPool.Count.ToString();
         }
     }
 }
