@@ -16,7 +16,7 @@ namespace AdventOfCode2021.Solutions.Day07
 
         protected override string PartTwo(string input)
         {
-            return CalcLeastFuelAmountPart2(input.Split(',').ConvertInputsToIntegers().ToArray()).ToString(); ;
+            return CalcLeastFuelAmountPart2(input.Split(',').ConvertInputsToIntegers().ToArray()).ToString();
         }
 
         private long CalcLeastFuelAmount(int[] input)
