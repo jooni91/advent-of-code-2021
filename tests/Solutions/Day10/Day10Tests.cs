@@ -1,8 +1,8 @@
 ﻿using Xunit;
 
-namespace AdventOfCode2021.Tests.Solutions.Day08
+namespace AdventOfCode2021.Tests.Solutions.Day10
 {
-    public class Day8Tests
+    public class Day10Tests
     {
         //[Fact]
         public void PartOne_ShouldReturn_ExpectedValue()

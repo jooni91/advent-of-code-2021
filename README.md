@@ -22,7 +22,7 @@ Links to solution for each day:
 
 [Day 8: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day08)
 
-[Day 9: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day09)
+[Day 9: Smoke Basin](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day09)
 
 [Day 10: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day10)
 

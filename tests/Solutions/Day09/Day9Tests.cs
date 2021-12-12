@@ -1,8 +1,8 @@
 ﻿using Xunit;
 
-namespace AdventOfCode2021.Tests.Solutions.Day08
+namespace AdventOfCode2021.Tests.Solutions.Day09
 {
-    public class Day8Tests
+    public class Day9Tests
     {
         //[Fact]
         public void PartOne_ShouldReturn_ExpectedValue()
@@ -14,7 +14,7 @@ namespace AdventOfCode2021.Tests.Solutions.Day08
             var result = daySolution.GetResult(Part.One);
 
             // Assert
-            Assert.Equal("", result);
+            Assert.Equal("545", result);
         }
 
         //[Fact]
