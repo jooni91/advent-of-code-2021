@@ -20,7 +20,7 @@ Links to solution for each day:
 
 [Day 7: The Treachery of Whales](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day07)
 
-[Day 8: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day08)
+[Day 8: Seven Segment Search](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day08)
 
 [Day 9: Smoke Basin](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day09)
 
