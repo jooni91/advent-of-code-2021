@@ -8,7 +8,7 @@ namespace AdventOfCode2021.Tests.Solutions.Day09
         public void PartOne_ShouldReturn_ExpectedValue()
         {
             // Arrange
-            var daySolution = new AdventOfCode2021.Solutions.Day08.Day8();
+            var daySolution = new AdventOfCode2021.Solutions.Day09.Day9();
 
             // Act
             var result = daySolution.GetResult(Part.One);
@@ -21,7 +21,7 @@ namespace AdventOfCode2021.Tests.Solutions.Day09
         public void PartTwo_ShouldReturn_ExpectedValue()
         {
             // Arrange
-            var daySolution = new AdventOfCode2021.Solutions.Day08.Day8();
+            var daySolution = new AdventOfCode2021.Solutions.Day09.Day9();
 
             // Act
             var result = daySolution.GetResult(Part.Two);
