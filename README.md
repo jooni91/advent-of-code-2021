@@ -24,7 +24,7 @@ Links to solution for each day:
 
 [Day 9: Smoke Basin](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day09)
 
-[Day 10: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day10)
+[Day 10: Syntax Scoring](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day10)
 
 [Day 11: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day11)
 
