@@ -26,11 +26,11 @@ Links to solution for each day:
 
 [Day 10: Syntax Scoring](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day10)
 
-[Day 11: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day11)
+[Day 11: Dumbo Octopus](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day11)
 
 [Day 12: ](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day12)
 
-[Day 13](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day13)
+[Day 13: Transparent Origami](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day13)
 
 [Day 14](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day14)
 
