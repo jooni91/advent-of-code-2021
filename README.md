@@ -32,7 +32,7 @@ Links to solution for each day:
 
 [Day 13: Transparent Origami](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day13)
 
-[Day 14](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day14)
+[Day 14: Extended Polymerization](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day14)
 
 [Day 15](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day15)
 
