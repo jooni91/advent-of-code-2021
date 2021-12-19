@@ -38,7 +38,7 @@ Links to solution for each day:
 
 [Day 16](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day16)
 
-[Day 17](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day17)
+[Day 17: Trick Shot](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day17)
 
 [Day 18](https://github.com/jooni91/advent-of-code-2021/tree/master/src/Solutions/Day18)
 
